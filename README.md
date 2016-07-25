@@ -1,2 +1,2 @@
 # student-portal
-about student details
+This is a student portal we can find all the info of the student
